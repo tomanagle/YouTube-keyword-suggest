@@ -10,7 +10,7 @@
     "puppeteer": "^7.0.1"
   },
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "run": "ts-node src/index.ts"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.168",
